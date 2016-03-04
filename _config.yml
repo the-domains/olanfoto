@@ -1,13 +1,23 @@
-layout_spectrum: 1
-typography_spectrum: 0.7329749
 color:
   saturation: 0.2146609
-  lightness: 0.708954
   brandStrength: 1
+  lightness: 0.708954
   brandColors:
-    - '#C8B475'
-    - '#574B4B'
-    - '#ECE9DA'
-    - '#87785D'
-    - '#CEC8BD'
+    - '#202020'
+    - '#5C5C5C'
   rhythmicContrast: 0.826579
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+typography_spectrum: 0.7329749
+name: olanfoto
