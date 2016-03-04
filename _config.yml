@@ -1,3 +1,7 @@
+name: olanfoto
+favicon: null
+layout_spectrum: 0.4892473
+typography_spectrum: 0.6523297
 collections:
   - index:
       path: /
@@ -10,14 +14,25 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6523297
+title: Prueba 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2146609
-  brandStrength: 1
-  lightness: 0.708954
   brandColors:
     - '#202020'
     - '#5C5C5C'
+  brandStrength: 1
+  lightness: 0.708954
+  saturation: 0.2146609
   rhythmicContrast: 0.826579
-layout_spectrum: 0.4892473
-name: olanfoto
+purpose: []
