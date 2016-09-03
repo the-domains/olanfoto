@@ -1,5 +1,36 @@
-title: Prueba 1
-purpose: []
+typography_spectrum: 0.5967742
+color:
+  saturation: 0.3727598
+  brandStrength: 1
+  lightness: 0.3781362
+  brandColors:
+    - '#000000'
+    - '#F2F2F2'
+    - '#1F1F1F'
+    - '#777777'
+  rhythmicContrast: 0.826579
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7939068
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Abimelec
+  email: cuentas@olanfoto.com
+  url: www.olanfoto.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/10205e23-500d-4ee1-9cba-bef558b701ce.png
+name: olanfoto
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84959e52-019f-41a7-8bd9-e7488ae1385b.png
 collections:
   - index:
       path: /
@@ -12,29 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.3727598
-  brandStrength: 1
-  lightness: 0.3781362
-  brandColors:
-    - '#000000'
-    - '#F2F2F2'
-    - '#1F1F1F'
-    - '#777777'
-  rhythmicContrast: 0.826579
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: olanfoto
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5967742
-layout_spectrum: 0.7939068
+title: Prueba 1
+purpose: []
