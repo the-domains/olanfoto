@@ -29,6 +29,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: 'Entre la lluvia y su mirada '
+    id: 3f482132-3810-4d92-ac9c-65c409eb09fb
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/84959e52-019f-41a7-8bd9-e7488ae1385b.png
 collections:
