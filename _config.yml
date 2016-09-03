@@ -48,4 +48,5 @@ collections:
     permalink:
       path: '/:title/'
 title: El Gran Viaje
+description: de los sueños
 purpose: []
