@@ -1,17 +1,14 @@
 ---
-description: Entre la lluvia y su mirada
+description: ''
 author: []
-datePublished: '2016-03-12T14:31:23.511Z'
-publisher:
-  domain: ''
-  name: ''
+datePublished: '2016-09-01T04:38:11.255Z'
+publisher: {}
 title: 'Entre la lluvia y su mirada '
-dateModified: '2016-03-12T14:29:40.387Z'
+dateModified: '2016-09-01T04:38:10.633Z'
 sourcePath: _posts/2016-03-12-entre-la-lluvia-y-su-mirada.md
-published: true
-inFeed: true
 hasPage: true
-inNav: false
+via: {}
+starred: false
 url: entre-la-lluvia-y-su-mirada/index.html
 _context: 'http://schema.org'
 _type: Article
